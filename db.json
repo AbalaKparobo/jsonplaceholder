@@ -1,8 +1,8 @@
 {
   "Success": "true",
   "Errors": [],
-  "RetroDate": Date.now(),
-  "EnquiryDate": Date.now(),
+  "RetroDate": "2020-03-23T18:25:43.511Z,
+  "EnquiryDate": "2020-03-23T18:25:43.511Z,
   "PositiveScoreFactorCount": 2,
   "NegativeScoreFactorCount": 0,
   "ScoreModel": "normalScore",
