@@ -1,0 +1,28 @@
+{
+  "Success": "true",
+  "Errors": [],
+  "RetroDate": Date.now(),
+  "EnquiryDate": Date.now(),
+  "PositiveScoreFactorCount": 2,
+  "NegativeScoreFactorCount": 0,
+  "ScoreModel": "normalScore",
+  "ScoreType": "worthidness",
+  "EnquiryLoanAmount": 00,
+  "StatusCode": "200",
+  "Message": "Successful",
+  "SMARTScoreResults": [
+    {
+      "Name": "John Random",
+      "SMARTScores": [
+        {
+          "Type": "Report",
+          "PopulationSegment": "Random",
+          "Score": 100,
+          "NegativeScoreFactors": "0",
+          "PositiveScoreFactors": "0"
+        }
+      ],
+      "AccountOwnerRegistryID": "1234567898765"
+    }
+  ]
+}
